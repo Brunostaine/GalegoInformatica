@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+header .logo-principal {
+    width: 100vw;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    padding: 10px;  
+}
+
+
+
+.barra-pesquisa {
+    display: flex;
+    margin: 10px auto;  
+    width: 80%;
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.menu-nav {
+    display: block;
+    width: 100vw;
+    
+}
+
+.menu-nav ul {
+    margin: 0 auto;
+    list-style: none;
+}
+
+.menu-nav ul li {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    padding: 8px;
+    border-bottom: 1px solid rgb(14, 12, 12);
+    
+}
+
+.sessaosmartphones {
+    display: flex;
+}
+
+.sessaosmartphones h1 {
+    margin: 0 auto;
+}
+
+/* Conteudo do Main */
+
+.produtosSite {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    margin-top: 20px;   
+}
+
+.produtoDaLoja {
+    width: 60vw;
+    margin: 0 auto;
+}
+
+.tituloProduto, .descricaoProduto, .precoProduto {
+    width: 70vw;
+    margin: 10px auto;
+    text-align: center;
+}
