@@ -28,9 +28,7 @@ header .logo-principal {
 
 .menu-nav {
     display: block;
-    width: 100%;
-    
-    
+    width: 100%;   
 }
 
 .menu-nav ul {
@@ -86,4 +84,90 @@ div h1 {
 .rodape .cotainer, p {
     color: white;
     padding-bottom: 10px;   
+}
+
+/* Midias query */
+
+@media screen and (min-width: 600px) {
+    header .logo-principal {
+        font-size: 3.5rem;  
+    }
+
+    .menu-nav {
+        margin-top: 50px;
+    }
+
+    .menu-nav ul li {
+        font-size: 1.5rem;
+    }
+
+    .tituloProduto {
+        font-size: 3.5rem;
+    }
+
+    .descricaoProduto, .precoProduto {
+        font-size: 1.7rem;
+    }
+
+    .rodape .cotainer, p {
+        font-size: 1.5rem; 
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    header, section {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .barra-pesquisa {
+        margin-top: 10rem;
+    }
+
+    .logo-principal {
+        width: 30%;   
+    }
+
+    .menu-nav ul {
+        display: flex;
+        justify-content: space-evenly;  
+    }
+
+    .menu-nav ul li, a{
+        border-bottom: none;
+        text-decoration: none;  
+        background-color: blue;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .produtosSite {
+        width: 30%;
+        align-items: center;
+        margin: auto;
+    }
+
+    .produtoDaLoja {
+        width: 50%;
+        align-items: center;
+        margin: 60px 0;
+    }
+
+    .tituloProduto, .descricaoProduto, .precoProduto {
+        width: 50%;
+        font-size: 1.5rem;
+    }
+
+    .rodape .cotainer p {
+        font-size: 1.2rem;
+        align-items: center;
+        padding-bottom: 0;
+    }   
 }
