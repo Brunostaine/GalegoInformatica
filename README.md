@@ -1,8 +1,13 @@
 ﻿# GalegoInformatica
 - É um projeto pessoal para portifólio de um site de anuncio de produtos de informática. Acredito que fazendo esse projeto consiga aperfeiçoar algumas habilidades de desenvolvedor.
 
+<<<<<<< HEAD
 ## link de pages para visualizar o projeto: 
     - https://brunostaine.github.io/GalegoInformatica/
+=======
+ LINK do pages para visualizar o projeto: 
+     https://brunostaine.github.io/GalegoInformatica/
+>>>>>>> 28351c4606444daab1d6cfb63ab377cc7b995be4
 
 ## Autor
 - Bruno Staine
