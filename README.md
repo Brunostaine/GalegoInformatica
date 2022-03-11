@@ -1,27 +1,10 @@
-﻿# GalegoInformatica
-- É um projeto pessoal para portifólio de um site de anuncio de produtos de informática. Acredito que fazendo esse projeto consiga aperfeiçoar algumas habilidades de desenvolvedor.
 
-<<<<<<< HEAD
-## link de pages para visualizar o projeto: 
-    - https://brunostaine.github.io/GalegoInformatica/
-=======
- LINK do pages para visualizar o projeto: 
-     https://brunostaine.github.io/GalegoInformatica/
->>>>>>> 28351c4606444daab1d6cfb63ab377cc7b995be4
+<h1 align="center"> Galego Informática </h1>
 
-## Autor
-- Bruno Staine
-
-## Desafios do Projeto
-- Criar uma página com produtos usando FlexBox e Grid
-- Criar um site Responsivo
-- Usar Midias query
-- Designer para mobile, tablet, desktop
-
-## Imagens
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 ### Desktop
-
+  
 ![desktop](https://user-images.githubusercontent.com/87622645/145693338-76323a14-f9d4-4d56-b753-e09f989d1c91.png)
 
 ### Tablet
@@ -32,5 +15,56 @@
 
 ![mobile](https://user-images.githubusercontent.com/87622645/145693362-ba3ef565-2405-493b-89c1-2d96dfebdb1f.png)
 
+## INDICE
+
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Autor](#Autor)
 
 
+## Descrição do projeto
+
+- É um projeto pessoal para portifólio de um site de anuncio de produtos de informática. 
+- O site é uma vitrine de produtos diversos.
+- Acredito que fazendo esse projeto consiga aperfeiçoar algumas habilidades de desenvolvedor.
+
+
+## :hammer: Funcionalidades do projeto
+
+- `Home` : Mostra todos os produtos que tem no site.
+
+## 📁 Acesso ao projeto
+
+**Acesso ao código do projeto**<br>
+https://github.com/Brunostaine/GalegoInformatica
+
+
+## 🛠️ Abrir e rodar o projeto
+
+**https://brunostaine.github.io/GalegoInformatica/**
+
+## Tecnicas e tecnologias utilizadas
+
+* HTML
+* CSS
+
+- Marcação HTML5 semântica
+- Propriedades personalizadas CSS
+- Resposividade
+- Mobile First
+- FlexBox e Grid
+- Usar Midias query
+- Designer para mobile, tablet, desktop
+
+## Autor
+
+<img src="https://user-images.githubusercontent.com/87622645/157755137-8d22a951-d323-4c33-814e-c0351ebefafe.png" width=115><br>
+<sub>Bruno Staine Caires de Oliveira</sub><br>
+https://github.com/Brunostaine 
